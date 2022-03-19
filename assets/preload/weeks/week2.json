@@ -1,8 +1,6 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["PRESS HERE TO DOWNLOAD ORIGINAL GAME", "spooky", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
@@ -18,5 +16,5 @@
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": true
 }

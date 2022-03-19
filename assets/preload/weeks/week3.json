@@ -1,22 +1,20 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		["PRESS HERE TO DOWNLOAD ORIGINAL GAME", "mom", [252, 150, 215]]
 	],
-
+	
 	"weekCharacters": [
-		"pico",
+		"mom",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
+	"weekBackground": "limo",
 
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"storyName": "MUST MURDER MOMMY",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": true
 }

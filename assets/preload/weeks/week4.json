@@ -1,22 +1,53 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
-	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
+	"storyName": "DELETE",
+	"difficulties": "Canon, Safe",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week5",
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Senpai Remix",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Dead Pixel",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Treacherous Thorns",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Roots",
+			"spirit-pixel",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Week 6"
 }
