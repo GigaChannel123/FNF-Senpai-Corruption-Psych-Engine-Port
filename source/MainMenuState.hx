@@ -107,7 +107,7 @@ class MainMenuState extends MusicBeatState
 			scale = 6 / optionShit.length;
 		}*/
 
-			//Evil BF In Menu
+			// Evil BF In Menu
 			var bfEvil:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('menuBF'));
 			bfEvil.scrollFactor.set(0, yScroll);
 			bfEvil.updateHitbox();
@@ -115,7 +115,7 @@ class MainMenuState extends MusicBeatState
 			bfEvil.antialiasing = ClientPrefs.globalAntialiasing;
 			add(bfEvil);
 
-			//Story Mode
+			// Story Mode
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
 			var menuItem:FlxSprite = new FlxSprite(140, 140);
 			menuItem.scale.x = 1.5;
@@ -153,7 +153,7 @@ class MainMenuState extends MusicBeatState
 			//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 			menuItem.updateHitbox();
 
-			//Credits
+			// Credits
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
 			var menuItem:FlxSprite = new FlxSprite(140, 380);
 			menuItem.scale.x = 1.5;
@@ -172,7 +172,7 @@ class MainMenuState extends MusicBeatState
 			//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 			menuItem.updateHitbox();
 
-			//Options
+			// Options
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
 			var menuItem:FlxSprite = new FlxSprite(140, 480);
 			menuItem.scale.x = 1.5;
